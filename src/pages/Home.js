@@ -14,7 +14,7 @@ function Home() {
             I help companies grow through a strong web presence and brand
             Identity. I motivate customers make the right decisions.
           </p>
-          <Link className='contact__button'>Contact Me</Link>
+          <Link className='contact__button' path="/contact">Contact Me</Link>
         </div>
 
         <img className='flower' src={HeroImage} alt='flower' />
