@@ -1,5 +1,5 @@
 import React from 'react';
-import './About.css';
+import './About.min.css';
 import Data from '../data.png';
 import Ny from '../ny.png';
 import Me from '../me.png';

@@ -1,5 +1,5 @@
 import React from 'react';
-import './Projects.css';
+import './Projects.min.css';
 import Rocket from '../rocket.png';
 import music from '../musicplayer.png';
 import crypto from '../crypto.png';

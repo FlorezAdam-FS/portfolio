@@ -1,6 +1,6 @@
 import React, { useRef } from 'react';
 import emailjs from 'emailjs-com';
-import './Contact.css';
+import './Contact.min.css';
 import earth from '../earth.png';
 import comet from '../Comet.png';
 import saturn from '../Saturn.png';

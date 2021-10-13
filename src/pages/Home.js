@@ -1,6 +1,6 @@
 import React from 'react';
 import HeroImage from '../flower3d.png';
-import './Home.css';
+import './Home.min.css';
 import { Link } from 'react-router-dom';
 
 function Home() {
