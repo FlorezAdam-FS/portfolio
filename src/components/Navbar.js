@@ -53,6 +53,7 @@ function Navbar() {
           .nav ul {
             display: flex;
             list-style: none;
+            
           }
 
           .nav__hamburger {
@@ -95,7 +96,8 @@ function Navbar() {
               );
               list-style: none;
               float: right;
-              margin: 0;
+              padding: 0;
+              margin: 0 auto;
             }
             .link {
               margin-left: 0;
