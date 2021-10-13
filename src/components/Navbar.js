@@ -52,6 +52,7 @@ function Navbar() {
         {`
           .nav ul {
             display: flex;
+            list-style: none;
           }
 
           .nav__hamburger {
@@ -98,6 +99,7 @@ function Navbar() {
             }
             .link {
               margin-left: 0;
+              
             }
           }
         `}
